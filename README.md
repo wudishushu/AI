@@ -1,5 +1,7 @@
 # 🐭 币圈三兄弟
 
+> 🤖 OpenClaw 技能 | 支持 OpenClaw AI 助手调用
+
 加密货币交易策略工具集 - 行情分析、持仓诊断、交易操作一体化解决方案。
 
 [English](./README_EN.md) | [中文](./README.md)
@@ -11,6 +13,25 @@
 币圈三兄弟是一套针对OKX交易所的自动化交易工具集，专注于USDT永续合约交易。包含三大核心模块：行情分析、持仓诊断、交易操作。
 
 > ⚠️ **风险提示**：加密货币合约交易风险极高，请确保已充分了解风险后再使用。本工具仅供学习参考，不构成投资建议。
+
+---
+
+## 🤖 OpenClaw 技能
+
+本项目也是 **OpenClaw** AI 助手的技能包，可直接被 OpenClaw 调用。
+
+### 在 OpenClaw 中使用
+
+```
+你分析下BTC行情
+→ 调用 market_analyst_pro.py
+
+我的持仓怎么样
+→ 调用 crypto_diagnostic.py
+
+我要买1个BTC
+→ 调用 crypto_trader.py
+```
 
 ---
 
