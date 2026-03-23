@@ -15,9 +15,10 @@ from datetime import datetime
 from pathlib import Path
 
 # ============ 配置区 =============
-API_KEY = "4ef7631d-a7cb-4050-abfc-8a7ffe9c10d5"
-SECRET_KEY = "EAF62B2E51A2AE8B4D03A7F22CB4DF3C"
-PASSPHRASE = "Gen.248613"
+# 请替换为您的OKX API密钥
+API_KEY = "YOUR_API_KEY"
+SECRET_KEY = "YOUR_SECRET_KEY"
+PASSPHRASE = "YOUR_PASSPHRASE"
 
 # 交易参数
 TEST_MODE = False  # 测试模式 True=不真正下单, False=实盘交易

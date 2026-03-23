@@ -15,9 +15,10 @@ from pathlib import Path
 
 # ============ 配置区 =============
 # OKX API
-API_KEY = "4ef7631d-a7cb-4050-abfc-8a7ffe9c10d5"
-SECRET_KEY = "EAF62B2E51A2AE8B4D03A7F22CB4DF3C"
-PASSPHRASE = "Gen.248613"
+# 请替换为您的OKX API密钥
+API_KEY = "YOUR_API_KEY"
+SECRET_KEY = "YOUR_SECRET_KEY"
+PASSPHRASE = "YOUR_PASSPHRASE"
 
 # 预警设置
 ALERT_GAIN_PERCENT = 10    # 涨幅超过X%提醒
